@@ -13,6 +13,8 @@ Everything is open source. This SDM can:
    
 In local mode, events come in from local commits (with git hooks) and from within the SDM.
 
+To get set up in local mode, try this [Quick Start](quick-start.md) guide.
+
 ![Atomist SDM in Local mode](img/sdm-local.png)
 
 ## Directory structure

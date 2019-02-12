@@ -1,9 +1,8 @@
 This page shows you how to start building your own development
 automations using Atomist.  Use this to explore, whether or not you
-have access to the Atomist service, and whether or not your team has
-other SDMs running.
+have access to the Atomist service.
 
-The easiest way to get started with Atomist is to work on your laptop
+You can work with the Atomist framework on your laptop
 in [local mode][local].  You will create your own software delivery
 machine, use it, and then customize it, all in the privacy of your
 machine. Later, you can connect your SDM to the Atomist service, and
@@ -28,7 +27,7 @@ bash support).
 [git]: https://git-scm.com/downloads  (Install Git)
 [node]: https://nodejs.org/ (Node.js)
 [jdk]: http://jdk.java.net/ (Java JDK)
-[local]: developer/local.md (SDM Local Mode)
+[local]: local.md (SDM Local Mode)
 
 
 ## Quick start
@@ -144,5 +143,5 @@ Find many things you can do with an SDM in the
 When you're ready to put your SDM to work for your whole team,
 continue with [setup][].
 
-[developer-guide]: developer/index.md (Atomist Developer Guide)
-[setup]: user/index.md (Atomist Setup)
+[developer-guide]: index.md (Atomist Developer Guide)
+[setup]: ../user/index.md (Atomist Setup)

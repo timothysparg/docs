@@ -113,4 +113,4 @@ you're in luck! Run your SDM in [local mode](local.md), on your own machine. Rec
 
 Check the [Developer Quick Start][quick-start] for instructions to get started in local mode.
 
-[quick-start]: ../quick-start.md (Atomist Developer Quick Start)
+[quick-start]: quick-start.md (Atomist Developer Quick Start)

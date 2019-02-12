@@ -9,7 +9,7 @@ machine (SDM), you need an [Atomist
 account][getting-started] and several other prerequisites.
 
 [team]: team.md (Atomist SDM Team Mode)
-[quick-start]: ../quick-start.md (Developer Quick Start)
+[quick-start]: quick-start.md (Developer Quick Start)
 [getting-started]: ../user/index.md (Atomist - Getting Started)
 
 ## Atomist workspace

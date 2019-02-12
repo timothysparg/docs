@@ -46,10 +46,10 @@ nav:
       - Slack: user/slack.md
       - Built-in Chat Integrations: user/lifecycle.md
       - Supported Integrations: user/integrations.md
-  - Developer Quick Start: quick-start.md
   - Developer Guide:
       - What you can do: developer/index.md
       - Architecture: developer/architecture.md
+      - Quick Start on your machine: developer/quick-start.md
       - Running an SDM:
         - About the SDM: developer/sdm.md
         - Prerequisites: developer/prerequisites.md

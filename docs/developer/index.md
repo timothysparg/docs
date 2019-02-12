@@ -61,7 +61,7 @@ processes. Or if you don't, please let us know! We are available in the [Atomist
 [project]: project.md
 [create]: create.md
 [architecture]: architecture.md (Atomist SDM Architecture)
-[quick-start]: ../quick-start.md (Atomist Developer Quick Start)
+[quick-start]: quick-start.md (Atomist Developer Quick Start)
 [cli]: cli.md (Atomist Command Line Interface)
 [sdm-deploy]: sdm-deploy.md (Deploying the SDM)
 [join]: https://join.atomist.com (Atomist Community Slack)

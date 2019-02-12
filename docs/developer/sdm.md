@@ -39,7 +39,7 @@ This page will help you:
 [prereq-prereq]: ../developer/prerequisites.md (Atomist Automation Prerequisites)
 [prereq-install-node]: ../developer/prerequisites.md#nodejs (Install Node.js)
 [prereq-install-cli]: ../developer/prerequisites.md#atomist-cli (Install the Atomist CLI)
-[quick-start]: ../quick-start.md (Developer Quick Start)
+[quick-start]: quick-start.md (Developer Quick Start)
 
 For the quickest path to seeing an SDM do something, use the [Quick Start][quick-start] instead.
 
