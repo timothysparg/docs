@@ -26,6 +26,8 @@ starts in [team mode](team.md). Here are some important options:
 
 *--no-compile* By default, `atomist start` will compile the project. Use this option to skip that step.
 
+LALALALALA
+
 *--change-dir &gt;dir&lt;* Run an SDM that's in another directory.
 
 After you start an SDM, leave it running in that terminal. The logs print to the screen.
