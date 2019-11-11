@@ -94,6 +94,7 @@ In particular, I use this launch configuration in the debugger:
             ],
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen",
+            "outFiles": [ "${workspaceRoot}/**/*.js",  "${workspaceRoot}/node_modules/**/*.js",
             "protocol": "inspector"
         }
 ```
